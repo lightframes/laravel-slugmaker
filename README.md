@@ -1,6 +1,6 @@
 # Generate slugs in a separate table when saving Eloquent models
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/fomvasss/laravel-slugmaker.svg?style=flat-square)](https://packagist.org/packages/lightframes/laravel-slugmaker)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/lightframes/laravel-slugmaker.svg?style=flat-square)](https://packagist.org/packages/lightframes/laravel-slugmaker)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 
 
