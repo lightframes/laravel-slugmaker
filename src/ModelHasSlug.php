@@ -78,7 +78,7 @@ trait ModelHasSlug
      */
     public function scopeFindBySlug($query, string $slug)
     {
-        return $this->scopeBySlugs($query, $slug)->first();
+        return $this->scopeBySlugs($query, $slug);
     }
 
     /**
