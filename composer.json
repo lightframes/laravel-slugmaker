@@ -2,7 +2,6 @@
     "name": "lightframes/laravel-slugmaker",
     "description": "Generate slugs when saving Eloquent models in a separate table",
     "keywords": [
-        "fomvasss",
         "laravel-slugmaker",
         "slug"
     ],
